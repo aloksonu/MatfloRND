@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="MatfloIntroduction" size="5.000000 2.964684" />
+    <ImageTarget name="UST" size="5.000000 2.964684" />
+    <ImageTarget name="1" size="6.000000 4.275341" />
+  </Tracking>
+</QCARConfig>

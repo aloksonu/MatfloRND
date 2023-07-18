@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/ARone/Scenes/ArMatfloPutaway.unity
+    guid: 5d772104b5e05984282761ede1d4c917
+  - enabled: 0
+    path: Assets/ARone/Scenes/ArTargetOne.unity
+    guid: fb5b3f73eabf90a429608d70d93be2a6
+  - enabled: 0
+    path: Assets/ARone/Scenes/ARone.unity
+    guid: cc198aecbf45a4b4791406481db67654
   m_configObjects: {}
